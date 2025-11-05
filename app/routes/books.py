@@ -230,8 +230,13 @@ def search_authors_simple():
 @books_bp.route('/authors', methods=['GET'])
 def get_authors():
     try:
-        author = Author.query.all()
-        return jsonify([autores.serialize() for autores in author]), 200
+       
+        authors = Author.query.order_by(
+            Author.apellido_autor.asc(), 
+            Author.nombre_autor.asc()
+        ).all()
+        
+        return jsonify([autor.serialize() for autor in authors]), 200
     
     except Exception as e:
         return internal_error(str(e))
