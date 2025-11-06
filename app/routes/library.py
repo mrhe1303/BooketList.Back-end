@@ -25,6 +25,7 @@ def get_my_library():
                 library_books.append({
                     'library_id': item.id_biblioteca,
                     'book': book.serialize(),
+                    'reading_state': item.estado_lectura,
                     'added_at': item.created_at.isoformat() if item.created_at else None
                 })
         
@@ -42,6 +43,7 @@ def get_my_library():
 def add_book_to_my_library():
     """
     Agregar libro a la librería personal del usuario
+    Acepta: id_libro, estado_lectura (opcional, default: 'quiero_leer')
     """
     try:
         user_id = get_jwt_identity()
@@ -51,6 +53,12 @@ def add_book_to_my_library():
             return bad_request('ID del libro es requerido')
         
         book_id = data['id_libro']
+        reading_state = data.get('estado_lectura', 'quiero_leer')
+        
+        # Validar estado de lectura
+        valid_states = ['quiero_leer', 'leyendo', 'leido']
+        if reading_state not in valid_states:
+            return bad_request(f'Estado de lectura inválido. Debe ser: {", ".join(valid_states)}')
         
         # Verificar si el libro existe
         book = Book.query.get(book_id)
@@ -69,7 +77,8 @@ def add_book_to_my_library():
         # Agregar a la librería
         library_item = UserLibrary(
             id_usuario=user_id,
-            id_libro=book_id
+            id_libro=book_id,
+            estado_lectura=reading_state
         )
         
         db.session.add(library_item)
@@ -77,8 +86,46 @@ def add_book_to_my_library():
         
         return jsonify({
             'message': 'Libro agregado a tu librería personal exitosamente',
-            'book': book.serialize()
+            'book': book.serialize(),
+            'reading_state': reading_state
         }), 201
+    
+    except Exception as e:
+        db.session.rollback()
+        return internal_error(str(e))
+
+@library_bp.route('/my-library/books/<int:book_id>', methods=['PUT'])
+@jwt_required()
+def update_book_in_library(book_id):
+    """
+    Actualizar estado de lectura de un libro en la librería
+    """
+    try:
+        user_id = get_jwt_identity()
+        data = request.get_json()
+        
+        # Buscar el item en la librería
+        library_item = UserLibrary.query.filter_by(
+            id_usuario=user_id,
+            id_libro=book_id
+        ).first()
+        
+        if not library_item:
+            return not_found('Libro no encontrado en tu librería personal')
+        
+        # Actualizar estado de lectura si se proporciona
+        if 'estado_lectura' in data:
+            valid_states = ['quiero_leer', 'leyendo', 'leido']
+            if data['estado_lectura'] not in valid_states:
+                return bad_request(f'Estado de lectura inválido. Debe ser: {", ".join(valid_states)}')
+            library_item.estado_lectura = data['estado_lectura']
+        
+        db.session.commit()
+        
+        return jsonify({
+            'message': 'Libro actualizado exitosamente',
+            'library_item': library_item.serialize()
+        }), 200
     
     except Exception as e:
         db.session.rollback()
@@ -129,10 +176,15 @@ def check_book_in_my_library(book_id):
         
         book = Book.query.get(book_id)
         
-        return jsonify({
+        response = {
             'in_my_library': library_item is not None,
             'book': book.serialize() if book else None
-        }), 200
+        }
+        
+        if library_item:
+            response['reading_state'] = library_item.estado_lectura
+        
+        return jsonify(response), 200
     
     except Exception as e:
         return internal_error(str(e))

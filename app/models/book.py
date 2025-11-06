@@ -1,7 +1,7 @@
 from app import db
 from datetime import datetime
 from typing import List, Dict, Any, Optional
-from sqlalchemy import String, DateTime, ForeignKey, Text
+from sqlalchemy import String, DateTime, ForeignKey, Text, func
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 class Book(db.Model):
@@ -14,11 +14,14 @@ class Book(db.Model):
     descripcion_libros: Mapped[str] = mapped_column(Text, nullable=False)
     enlace_asin_libro: Mapped[str] = mapped_column(String(100), nullable=False)
     enlace_portada_libro: Mapped[str] = mapped_column(String(500), nullable=False)
-    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+    created_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        server_default=func.now()
+    )
     updated_at: Mapped[datetime] = mapped_column(
-        DateTime, 
-        default=datetime.utcnow, 
-        onupdate=datetime.utcnow
+        DateTime(timezone=True),
+        server_default=func.now(),
+        onupdate=func.now()
     )
 
     calificaciones: Mapped[List["Rating"]] = relationship(back_populates="libro")
