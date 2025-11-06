@@ -4,70 +4,70 @@
 - **Autor:** Miguel de Cervantes
 - **Año de Publicación:** 1605
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81-ylKA1wJL._SL1500_.jpg
-- **ASIN:** /dp/8491057536
+- **ASIN:**  8491057536
 - **Descripción:** Las aventuras del ingenioso hidalgo que pierde la razón por leer novelas de caballería y sale a desfacer entuertos.
 
 ## 2. Orgullo y Prejuicio
 - **Autor:** Jane Austen
 - **Año de Publicación:** 1813
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71KZzetNT9L._SL1500_.jpg
-- **ASIN:** /dp/8491051325
+- **ASIN:**  8491051325
 - **Descripción:** Elizabeth Bennet y Mr. Darcy superan sus prejuicios iniciales en esta brillante sátira sobre el matrimonio y la sociedad inglesa.
 
 ## 3. Crimen y Castigo
 - **Autor:** Fiódor Dostoyevski
 - **Año de Publicación:** 1866
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71jl4XMVEKL._SL1329_.jpg
-- **ASIN:** /dp/B0DWKBCSL2
+- **ASIN:**  B0DWKBCSL2
 - **Descripción:** Raskólnikov asesina a una anciana usurera y enfrenta las consecuencias psicológicas de su acto en la San Petersburgo del siglo XIX.
 
 ## 4. Moby Dick
 - **Autor:** Herman Melville
 - **Año de Publicación:** 1851
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81-jgO4Zm8L._SL1500_.jpg
-- **ASIN:** /dp/8491050205
+- **ASIN:**  8491050205
 - **Descripción:** El capitán Ahab persigue obsesivamente a la ballena blanca que le arrancó una pierna en una travesía hacia la autodestrucción.
 
 ## 5. La Odisea
 - **Autor:** Homero
 - **Año de Publicación:** Siglo VIII a.C.
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/61O4h3WIM0L._SL1050_.jpg
-- **ASIN:** /dp/8413625173
+- **ASIN:**  8413625173
 - **Descripción:** El épico viaje de Odiseo de regreso a Ítaca tras la Guerra de Troya, enfrentando monstruos, dioses y su propio destino.
 
 ## 6. Los Hermanos Karamazov
 - **Autor:** Fiódor Dostoyevski
 - **Año de Publicación:** 1880
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81yq7rUwYmL._SL1500_.jpg
-- **ASIN:** /dp/8491050051
+- **ASIN:**  8491050051
 - **Descripción:** Tres hermanos de personalidades opuestas enfrentan cuestiones de fe, moralidad y libre albedrío tras la muerte de su padre.
 
 ## 7. En Busca del Tiempo Perdido
 - **Autor:** Marcel Proust
 - **Año de Publicación:** 1913
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/61CNCVKq6cL._SL1500_.jpg
-- **ASIN:** /dp/B09FS9PMKS
+- **ASIN:**  B09FS9PMKS
 - **Descripción:** Monumental exploración de la memoria, el tiempo y la sociedad francesa a través de las reminiscencias del narrador.
 
 ## 8. Hamlet
 - **Autor:** William Shakespeare
 - **Año de Publicación:** 1603
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71uz9igbHrL._SL1500_.jpg
-- **ASIN:** /dp/B0CT1FB5QN
+- **ASIN:**  B0CT1FB5QN
 - **Descripción:** El príncipe de Dinamarca busca vengar el asesinato de su padre mientras lucha contra la duda, la locura y el destino.
 
 ## 9. La Divina Comedia
 - **Autor:** Dante Alighieri
 - **Año de Publicación:** 1320
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71WJbXGxPdL._SL1360_.jpg
-- **ASIN:** /dp/1518711375
+- **ASIN:**  1518711375
 - **Descripción:** Dante viaja por el Infierno, el Purgatorio y el Paraíso en una obra maestra alegórica sobre el alma y la salvación.
 
 ## 10. Guerra y Paz
 - **Autor:** León Tolstói
 - **Año de Publicación:** 1869
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/91bx-1HHXGL._SL1500_.jpg
-- **ASIN:** /dp/B091FMWH1Z
+- **ASIN:**  B091FMWH1Z
 - **Descripción:** Familias aristocráticas rusas viven amores, tragedias y transformaciones durante las guerras napoleónicas en esta épica monumental.
 
 11. Ulises
@@ -75,7 +75,7 @@
 Autor: James Joyce
 Año de Publicación: 1922
 Imagen de Portada: https://m.media-amazon.com/images/I/91G1mqR54dS._SL1500_.jpg
-ASIN: /dp/8466359400
+ASIN:  8466359400
 Descripción: Un día en la vida de Leopold Bloom en Dublín, obra modernista que revolucionó la literatura con su técnica de flujo de conciencia.
 
 12. Anna Karenina
@@ -83,7 +83,7 @@ Descripción: Un día en la vida de Leopold Bloom en Dublín, obra modernista qu
 Autor: León Tolstói
 Año de Publicación: 1877
 Imagen de Portada: https://m.media-amazon.com/images/I/91Jd4RA0A+L._SL1500_.jpg
-ASIN: /dp/8491055185
+ASIN:  8491055185
 Descripción: La trágica historia de Ana, atrapada entre su pasión por Vronsky y las convenciones sociales de la Rusia aristocrática.
 
 13. Madame Bovary
@@ -91,7 +91,7 @@ Descripción: La trágica historia de Ana, atrapada entre su pasión por Vronsky
 Autor: Gustave Flaubert
 Año de Publicación: 1857
 Imagen de Portada: https://m.media-amazon.com/images/I/61ivxzAGxkL._SL1360_.jpg
-ASIN: /dp/1543018882
+ASIN:  1543018882
 Descripción: Emma Bovary busca romance y pasión fuera de su matrimonio aburrido, llevándola a una espiral de deudas y desilusión.
 
 14. El Extranjero
@@ -99,7 +99,7 @@ Descripción: Emma Bovary busca romance y pasión fuera de su matrimonio aburrid
 Autor: Albert Camus
 Año de Publicación: 1942
 Imagen de Portada: https://m.media-amazon.com/images/I/71rWL9HWODL._SL1500_.jpg
-ASIN: /dp/8439737939
+ASIN:  8439737939
 Descripción: Meursault, un hombre emocionalmente distante, comete un asesinato absurdo en la Argelia francesa en esta obra existencialista.
 
 15. Las Aventuras de Tom Sawyer
@@ -107,7 +107,7 @@ Descripción: Meursault, un hombre emocionalmente distante, comete un asesinato 
 Autor: Mark Twain
 Año de Publicación: 1876
 Imagen de Portada: https://m.media-amazon.com/images/I/61SETni1pyL._SL1331_.jpg
-ASIN: /dp/B0CHL3RW8P
+ASIN:  B0CHL3RW8P
 Descripción: Las travesuras de un niño ingenioso en el Mississippi, desde presenciar un asesinato hasta buscar tesoros piratas escondidos.
 
 16. Jane Eyre
@@ -115,7 +115,7 @@ Descripción: Las travesuras de un niño ingenioso en el Mississippi, desde pres
 Autor: Charlotte Brontë
 Año de Publicación: 1847
 Imagen de Portada: https://m.media-amazon.com/images/I/71HFFFVN2+L._SL1500_.jpg
-ASIN: /dp/B01CDIDB02
+ASIN:  B01CDIDB02
 Descripción: Una huérfana se convierte en institutriz y se enamora de su empleador, Mr. Rochester, cuyo oscuro secreto amenaza su felicidad.
 
 17. El Proceso
@@ -123,7 +123,7 @@ Descripción: Una huérfana se convierte en institutriz y se enamora de su emple
 Autor: Franz Kafka
 Año de Publicación: 1925
 Imagen de Portada: https://m.media-amazon.com/images/I/71E8PQ0bN6L._SL1500_.jpg
-ASIN: /dp/8420678198
+ASIN:  8420678198
 Descripción: Josef K es arrestado y procesado por un crimen desconocido en un sistema judicial absurdo y burocrático kafkiano.
 
 18. Grandes Esperanzas
@@ -131,7 +131,7 @@ Descripción: Josef K es arrestado y procesado por un crimen desconocido en un s
 Autor: Charles Dickens
 Año de Publicación: 1861
 Imagen de Portada: https://m.media-amazon.com/images/I/816+kfiuWJL._SL1360_.jpg
-ASIN: /dp/1986946304
+ASIN:  1986946304
 Descripción: Pip, un huérfano pobre, recibe una misteriosa fortuna que transforma su vida pero desafía sus valores sobre clase y amor.
 
 19. Metamorfosis
@@ -139,7 +139,7 @@ Descripción: Pip, un huérfano pobre, recibe una misteriosa fortuna que transfo
 Autor: Ovidio
 Año de Publicación: 8 d.C.
 Imagen de Portada: https://m.media-amazon.com/images/I/71f6hk9pBFL._SL1360_.jpg
-ASIN: /dp/1470156202
+ASIN:  1470156202
 Descripción: Colección épica de mitos griegos y romanos sobre transformaciones, desde la creación del mundo hasta la deificación de César.
 
 20. El Decamerón
@@ -147,7 +147,7 @@ Descripción: Colección épica de mitos griegos y romanos sobre transformacione
 Autor: Giovanni Boccaccio
 Año de Publicación: 1353
 Imagen de Portada: https://m.media-amazon.com/images/I/71nk4Tk9hkL._SL1360_.jpg
-ASIN: /dp/153971070X
+ASIN:  153971070X
 Descripción: Diez jóvenes escapan de la peste negra en Florencia y se entretienen contando cien historias de amor, engaño y aventura.
 
 # Top 10 Libros de No-Ficción
@@ -156,70 +156,70 @@ Descripción: Diez jóvenes escapan de la peste negra en Florencia y se entretie
 - **Autor:** Yuval Noah Harari
 - **Año de Publicación:** 2011
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/717sO7vkyUL._SL1500_.jpg
-- **ASIN:** /dp/841939971X
+- **ASIN:**  841939971X
 - **Descripción:** Una exploración fascinante de la historia de la humanidad desde nuestros orígenes hasta la actualidad y nuestro futuro.
 
 ## 2. Una Educación
 - **Autor:** Tara Westover
 - **Año de Publicación:** 2018
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71JoUjDA0CL._SL1500_.jpg
-- **ASIN:** /dp/B0D1RBR9XW
+- **ASIN:**  B0D1RBR9XW
 - **Descripción:** Memorias de una mujer criada por fundamentalistas mormones que nunca fue a la escuela hasta obtener un doctorado en Cambridge.
 
 ## 3. El Poder del Ahora
 - **Autor:** Eckhart Tolle
 - **Año de Publicación:** 1997
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/31gCZ3hEQ5L.jpg
-- **ASIN:** /dp/8484450341
+- **ASIN:**  8484450341
 - **Descripción:** Guía espiritual para vivir en el momento presente, liberándose del dolor emocional del pasado y la ansiedad del futuro.
 
 ## 4. Pensar Rápido, Pensar Despacio
 - **Autor:** Daniel Kahneman
 - **Año de Publicación:** 2011
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71sy-wpVL-L._SL1500_.jpg
-- **ASIN:** /dp/B085NZ4HVD
+- **ASIN:**  B085NZ4HVD
 - **Descripción:** El premio Nobel de Economía explica los dos sistemas de pensamiento que moldean nuestras decisiones y juicios cotidianos.
 
 ## 5. Historia del tiempo: Del big bang a los agujeros negros
 - **Autor:** Stephen Hawking
 - **Año de Publicación:** 1988
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71PxtZIcvML._SL1500_.jpg
-- **ASIN:** /dp/8420651990
+- **ASIN:**  8420651990
 - **Descripción:** El célebre físico explica los grandes misterios del universo: agujeros negros, el Big Bang y la naturaleza del tiempo.
 
 ## 6. El Diario de Ana Frank
 - **Autor:** Ana Frank
 - **Año de Publicación:** 1947
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71QANHhE33L._SL1500_.jpg
-- **ASIN:** /dp/0525565884
+- **ASIN:**  0525565884
 - **Descripción:** El testimonio auténtico de una adolescente judía escondida durante el Holocausto, símbolo universal de esperanza y resistencia.
 
 ## 7. Homo Deus: Breve Historia del Mañana
 - **Autor:** Yuval Noah Harari
 - **Año de Publicación:** 2015
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81kZpuvRoFL._SL1500_.jpg
-- **ASIN:** /dp/8499926711
+- **ASIN:**  8499926711
 - **Descripción:** Explora el futuro de la humanidad en una era donde la tecnología podría convertirnos en dioses o hacernos obsoletos.
 
 ## 8. Armas, Gérmenes y Acero
 - **Autor:** Jared Diamond
 - **Año de Publicación:** 1997
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81etu+U84iL._SL1500_.jpg
-- **ASIN:** /dp/8499928714
+- **ASIN:**  8499928714
 - **Descripción:** Análisis profundo sobre cómo factores geográficos y ambientales determinaron el destino de las civilizaciones humanas.
 
 ## 9. El Hombre en Busca de Sentido
 - **Autor:** Viktor Frankl
 - **Año de Publicación:** 1946
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/61yfWdq5+zL._SL1050_.jpg
-- **ASIN:** /dp/8425451094
+- **ASIN:**  8425451094
 - **Descripción:** El psiquiatra sobreviviente del Holocausto explora cómo encontrar propósito y significado incluso en el sufrimiento extremo.
 
 ## 10. Los Siete Hábitos de la Gente Altamente Efectiva
 - **Autor:** Stephen R. Covey
 - **Año de Publicación:** 1989
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/617AqnsUdqL._SL1500_.jpg
-- **ASIN:** /dp/6075695591
+- **ASIN:**  6075695591
 - **Descripción:** Principios fundamentales para el desarrollo personal y profesional que han transformado millones de vidas en todo el mundo.
 
 11. Hábitos Atómicos
@@ -227,7 +227,7 @@ Descripción: Diez jóvenes escapan de la peste negra en Florencia y se entretie
 Autor: James Clear
 Año de Publicación: 2018
 Imagen de Portada: https://m.media-amazon.com/images/I/713PN1USzXL._SL1228_.jpg
-ASIN: /dp/6075694129
+ASIN:  6075694129
 Descripción: Estrategias prácticas para formar buenos hábitos, romper malos y dominar comportamientos que llevan al éxito duradero.
 
 12. Come, Reza, Ama
@@ -235,7 +235,7 @@ Descripción: Estrategias prácticas para formar buenos hábitos, romper malos y
 Autor: Elizabeth Gilbert
 Año de Publicación: 2006
 Imagen de Portada: https://m.media-amazon.com/images/I/71fG+Rte1IL._SL1500_.jpg
-ASIN: /dp/1644732734
+ASIN:  1644732734
 Descripción: Memorias de una mujer que viaja por Italia, India e Indonesia buscando placer, espiritualidad y equilibrio tras su divorcio.
 
 13. En Defensa de la Comida
@@ -243,7 +243,7 @@ Descripción: Memorias de una mujer que viaja por Italia, India e Indonesia busc
 Autor: Michael Pollan
 Año de Publicación: 2008
 Imagen de Portada: https://m.media-amazon.com/images/I/71NVcW6g3LL._SL1500_.jpg
-ASIN: /dp/0143114964
+ASIN:  0143114964
 Descripción: Un manifiesto sobre nutrición que resume la alimentación saludable en siete palabras: Come comida, no mucha, principalmente plantas.
 
 14. El Gen: Una Historia Íntima
@@ -251,7 +251,7 @@ Descripción: Un manifiesto sobre nutrición que resume la alimentación saludab
 Autor: Siddhartha Mukherjee
 Año de Publicación: 2016
 Imagen de Portada: https://m.media-amazon.com/images/I/71knXNNQMwL._SL1500_.jpg
-ASIN: /dp/1476733503
+ASIN:  1476733503
 Descripción: La historia de la genética desde Mendel hasta CRISPR, entrelazada con la historia familiar del autor sobre enfermedades mentales.
 
 15. Fuera de Serie
@@ -259,7 +259,7 @@ Descripción: La historia de la genética desde Mendel hasta CRISPR, entrelazada
 Autor: Malcolm Gladwell
 Año de Publicación: 2008
 Imagen de Portada: https://m.media-amazon.com/images/I/71sDcx7hQyL._SL1500_.jpg
-ASIN: /dp/B0D6XPJRKZ
+ASIN:  B0D6XPJRKZ
 Descripción: Explora cómo el éxito excepcional depende más de oportunidades, tiempo de práctica y contexto cultural que del talento puro.
 
 16. El Mundo y Sus Demonios
@@ -267,7 +267,7 @@ Descripción: Explora cómo el éxito excepcional depende más de oportunidades,
 Autor: Carl Sagan
 Año de Publicación: 1995
 Imagen de Portada: https://m.media-amazon.com/images/I/51b3VxpNhhL._SL1181_.jpg
-ASIN: /dp/8408058193
+ASIN:  8408058193
 Descripción: Una defensa apasionada del pensamiento crítico y el método científico contra la pseudociencia y la superstición moderna.
 
 17. Nacidos para Correr
@@ -275,7 +275,7 @@ Descripción: Una defensa apasionada del pensamiento crítico y el método cient
 Autor: Christopher McDougall
 Año de Publicación: 2009
 Imagen de Portada: https://m.media-amazon.com/images/I/812qP+2a1EL._SL1500_.jpg
-ASIN: /dp/030774129X
+ASIN:  030774129X
 Descripción: La búsqueda del autor de los secretos de los Tarahumara, una tribu mexicana de superatletas que corren descalzos.
 
 18. Por Qué Dormimos
@@ -283,7 +283,7 @@ Descripción: La búsqueda del autor de los secretos de los Tarahumara, una trib
 Autor: Matthew Walker
 Año de Publicación: 2017
 Imagen de Portada: https://m.media-amazon.com/images/I/61Xf8V-H2uL._SL1200_.jpg
-ASIN: /dp/8412064526
+ASIN:  8412064526
 Descripción: Un neurocientífico revela la ciencia del sueño y su impacto crítico en la salud, aprendizaje y esperanza de vida.
 
 19. Inteligencia Emocional
@@ -291,7 +291,7 @@ Descripción: Un neurocientífico revela la ciencia del sueño y su impacto crí
 Autor: Daniel Goleman
 Año de Publicación: 1995
 Imagen de Portada: https://m.media-amazon.com/images/I/71m4GrUv9VL._SL1500_.jpg
-ASIN: /dp/1947783424
+ASIN:  1947783424
 Descripción: Por qué la inteligencia emocional puede importar más que el coeficiente intelectual para el éxito personal y profesional.
 
 20. El Origen de las Especies
@@ -299,7 +299,7 @@ Descripción: Por qué la inteligencia emocional puede importar más que el coef
 Autor: Charles Darwin
 Año de Publicación: 1859
 Imagen de Portada: https://m.media-amazon.com/images/I/514CvkyD7QL._SL1491_.jpg
-ASIN: /dp/B0DYK36QLB
+ASIN:  B0DYK36QLB
 Descripción: La obra fundamental que introduce la teoría de la evolución por selección natural, revolucionando la biología moderna.
 
 Top 10 Libros de Historia
@@ -308,70 +308,70 @@ Top 10 Libros de Historia
 - **Autor:** Yuval Noah Harari
 - **Año de Publicación:** 2011
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/717sO7vkyUL._SL1500_.jpg
-- **ASIN:** /dp/841939971X
+- **ASIN:**  841939971X
 - **Descripción:** Una breve historia de la humanidad desde la evolución del Homo sapiens hasta las revoluciones cognitiva, agrícola y científica.
 
 ## 2. Armas, Gérmenes y Acero
 - **Autor:** Jared Diamond
 - **Año de Publicación:** 1997
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81etu+U84iL._SL1500_.jpg
-- **ASIN:** /dp/8499928714
+- **ASIN:**  8499928714
 - **Descripción:** Explica por qué algunas civilizaciones conquistaron otras, analizando factores geográficos, biológicos y tecnológicos determinantes.
 
 ## 3. El Diario de Ana Frank
 - **Autor:** Ana Frank
 - **Año de Publicación:** 1947
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71QANHhE33L._SL1500_.jpg
-- **ASIN:** /dp/0525565884
+- **ASIN:**  0525565884
 - **Descripción:** El testimonio conmovedor de una niña judía escondida con su familia durante la ocupación nazi de Ámsterdam en la Segunda Guerra.
 
 ## 4. Una Historia de Dos Ciudades (Ficción histórica)
 - **Autor:** Charles Dickens
 - **Año de Publicación:** 1859
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/91oMKu1JF6S._SL1500_.jpg
-- **ASIN:** /dp/8418211563
+- **ASIN:**  8418211563
 - **Descripción:** Durante la Revolución Francesa, las vidas de familias en Londres y París se entrelazan en una historia de sacrificio y redención.
 
 ## 5. Los Pilares de la Tierra
 - **Autor:** Ken Follett
 - **Año de Publicación:** 1989
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/51SwGPdq3HL.jpg
-- **ASIN:** /dp/8401328519
+- **ASIN:**  8401328519
 - **Descripción:** La construcción de una catedral gótica en la Inglaterra medieval sirve de telón para intrigas, ambiciones y luchas de poder.
 
 ## 6. El Nombre de la Rosa
 - **Autor:** Umberto Eco
 - **Año de Publicación:** 1980
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/816Z+coEZ8L._SL1500_.jpg
-- **ASIN:** /dp/8426403565
+- **ASIN:**  8426403565
 - **Descripción:** Un fraile franciscano investiga misteriosos asesinatos en una abadía italiana del siglo XIV llena de secretos y herejías.
 
 ## 7. El Código Da Vinci
 - **Autor:** Dan Brown
 - **Año de Publicación:** 2003
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71cmxCYAntL._SL1003_.jpg
-- **ASIN:** /dp/8408163159
+- **ASIN:**  8408163159
 - **Descripción:** Robert Langdon persigue pistas históricas sobre el Santo Grial y sociedades secretas en una trama que mezcla arte e historia.
 
 ## 8. Todos Deberíamos Ser Feministas
 - **Autor:** Chimamanda Ngozi Adichie
 - **Año de Publicación:** 2014
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71mEPWrODwL._SL1500_.jpg
-- **ASIN:** /dp/8439730489
+- **ASIN:**  8439730489
 - **Descripción:** Un ensayo personal que examina la historia y el significado del feminismo en el contexto africano y global contemporáneo.
 
 ## 9. El Mundo de Ayer
 - **Autor:** Stefan Zweig
 - **Año de Publicación:** 1942
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/61f6TsIQuvL._SL1491_.jpg
-- **ASIN:** /dp/B09S68C8WZ
+- **ASIN:**  B09S68C8WZ
 - **Descripción:** Memorias del escritor austriaco sobre la Europa culta anterior a las guerras mundiales y su destrucción por el totalitarismo.
 
 ## 10. Los Miserables
 - **Autor:** Victor Hugo
 - **Año de Publicación:** 1862
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71aLbjCBRnL._SL1500_.jpg
-- **ASIN:** /dp/B0CFZFJYKS
+- **ASIN:**  B0CFZFJYKS
 - **Descripción:** Jean Valjean busca redención en la Francia del siglo XIX, en una épica historia sobre justicia, amor y revolución social.
 
 11. La Sombra del Viento
@@ -379,7 +379,7 @@ Top 10 Libros de Historia
 Autor: Carlos Ruiz Zafón
 Año de Publicación: 2001
 Imagen de Portada: https://m.media-amazon.com/images/I/61nVH-yc7-L._SL1050_.jpg
-ASIN: /dp/8408299751
+ASIN:  8408299751
 Descripción: Daniel descubre un libro misterioso en Barcelona de posguerra que lo lleva a desentrañar secretos del pasado y la Guerra Civil.
 
 12. Memorias de Adriano
@@ -387,7 +387,7 @@ Descripción: Daniel descubre un libro misterioso en Barcelona de posguerra que 
 Autor: Marguerite Yourcenar
 Año de Publicación: 1951
 Imagen de Portada: https://m.media-amazon.com/images/I/61nfQ-br8QL._SL1291_.jpg
-ASIN: /dp/6073103220
+ASIN:  6073103220
 Descripción: El emperador romano Adriano reflexiona sobre su vida, amor por Antínoo y el poder en esta ficción histórica íntima.
 
 13. Yo, Claudio
@@ -395,7 +395,7 @@ Descripción: El emperador romano Adriano reflexiona sobre su vida, amor por Ant
 Autor: Robert Graves
 Año de Publicación: 1934
 Imagen de Portada: https://m.media-amazon.com/images/I/91C2BIrY2pL._SL1500_.jpg
-ASIN: /dp/8435005208
+ASIN:  8435005208
 Descripción: Las memorias ficticias del emperador romano Claudio sobre las intrigas, asesinatos y locuras de la dinastía Julio-Claudia.
 
 14. La Conjura de los Necios
@@ -403,7 +403,7 @@ Descripción: Las memorias ficticias del emperador romano Claudio sobre las intr
 Autor: John Kennedy Toole
 Año de Publicación: 1980
 Imagen de Portada: https://m.media-amazon.com/images/I/81FZYxOWkrL._SL1500_.jpg
-ASIN: /dp/8433902326
+ASIN:  8433902326
 Descripción: Ignatius J. Reilly, un intelectual medieval atrapado en la Nueva Orleans moderna, causa caos cómico por donde pasa.
 
 15. El Médico
@@ -411,7 +411,7 @@ Descripción: Ignatius J. Reilly, un intelectual medieval atrapado en la Nueva O
 Autor: Noah Gordon
 Año de Publicación: 1986
 Imagen de Portada: https://m.media-amazon.com/images/I/71zuAgyG9TL._SY342_.jpg
-ASIN: /dp/8415729251
+ASIN:  8415729251
 Descripción: Un joven inglés del siglo XI viaja a Persia haciéndose pasar por judío para estudiar medicina con Avicena.
 
 16. Shogun
@@ -419,7 +419,7 @@ Descripción: Un joven inglés del siglo XI viaja a Persia haciéndose pasar por
 Autor: James Clavell
 Año de Publicación: 1975
 Imagen de Portada: https://m.media-amazon.com/images/I/61b5n6pgSnL._SL1050_.jpg
-ASIN: /dp/8466379703
+ASIN:  8466379703
 Descripción: Un navegante inglés náufrago en Japón feudal se ve envuelto en luchas de poder entre señores de la guerra samurái.
 
 17. El Último Mohicano
@@ -427,7 +427,7 @@ Descripción: Un navegante inglés náufrago en Japón feudal se ve envuelto en 
 Autor: James Fenimore Cooper
 Año de Publicación: 1826
 Imagen de Portada: https://m.media-amazon.com/images/I/81STy77GacS._SL1500_.jpg
-ASIN: /dp/B07FMZ4ZJS
+ASIN:  B07FMZ4ZJS
 Descripción: Durante la Guerra Franco-India, Hawkeye y sus aliados mohicanos escoltan a dos hermanas en territorio peligroso.
 
 18. La Catedral del Mar
@@ -435,7 +435,7 @@ Descripción: Durante la Guerra Franco-India, Hawkeye y sus aliados mohicanos es
 Autor: Ildefonso Falcones
 Año de Publicación: 2006
 Imagen de Portada: https://m.media-amazon.com/images/I/81jRChIWkPL._SL1500_.jpg
-ASIN: /dp/8425367786
+ASIN:  8425367786
 Descripción: Un siervo medieval lucha por su libertad mientras ayuda a construir la iglesia de Santa María del Mar en Barcelona.
 
 19. El Hereje
@@ -443,7 +443,7 @@ Descripción: Un siervo medieval lucha por su libertad mientras ayuda a construi
 Autor: Miguel Delibes
 Año de Publicación: 1998
 Imagen de Portada: https://m.media-amazon.com/images/I/61+1rlrijML._SL1050_.jpg
-ASIN: /dp/8423363880
+ASIN:  8423363880
 Descripción: Cipriano Salcedo, comerciante del siglo XVI en Valladolid, abraza el protestantismo enfrentando la Inquisición española.
 
 20. La Reina del Sur
@@ -451,7 +451,7 @@ Descripción: Cipriano Salcedo, comerciante del siglo XVI en Valladolid, abraza 
 Autor: Arturo Pérez-Reverte
 Año de Publicación: 2002
 Imagen de Portada: https://m.media-amazon.com/images/I/51RqZIe9wqL.jpg
-ASIN: /dp/1589866177
+ASIN:  1589866177
 Descripción: Teresa Mendoza pasa de ser novia de un narcotraficante a convertirse en una poderosa líder del contrabando internacional.
 
 # Top 10 Libros de Ciencia Ficción
@@ -461,70 +461,70 @@ Top 10 Libros de Ciencia Ficción
 - **Autor:** Frank Herbert
 - **Año de Publicación:** 1965
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/91bNnC0hTFL._SL1500_.jpg
-- **ASIN:** /dp/8466363408
+- **ASIN:**  8466363408
 - **Descripción:** Paul Atreides debe sobrevivir en el desierto planeta Arrakis, fuente de la sustancia más valiosa del universo: la especia.
 
 ## 2. Fundación
 - **Autor:** Isaac Asimov
 - **Año de Publicación:** 1951
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/91ktHAuXOCL._SL1500_.jpg
-- **ASIN:** /dp/8497599241
+- **ASIN:**  8497599241
 - **Descripción:** Hari Seldon predice la caída del Imperio Galáctico y crea la Fundación para preservar el conocimiento y acortar la edad oscura.
 
 ## 3. 1984
 - **Autor:** George Orwell
 - **Año de Publicación:** 1949
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/51GPJUr5v0L._SL1157_.jpg
-- **ASIN:** /dp/6073844328
+- **ASIN:**  6073844328
 - **Descripción:** Una distopía totalitaria donde el Gran Hermano controla cada aspecto de la vida mediante vigilancia, propaganda y manipulación.
 
 ## 4. Un Mundo Feliz
 - **Autor:** Aldous Huxley
 - **Año de Publicación:** 1932
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81glRrzOepL._SL1500_.jpg
-- **ASIN:** /dp/8466350942
+- **ASIN:**  8466350942
 - **Descripción:** En una sociedad futurista donde todos son felices mediante condicionamiento y drogas, un hombre cuestiona este orden perfecto.
 
 ## 5. Neuromante
 - **Autor:** William Gibson
 - **Año de Publicación:** 1984
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81ZE-kY+ynL._SL1500_.jpg
-- **ASIN:** /dp/8445070843
+- **ASIN:**  8445070843
 - **Descripción:** Case, un hacker caído en desgracia, es contratado para el último trabajo: hackear una inteligencia artificial en el ciberespacio.
 
 ## 6. El Juego de Ender
 - **Autor:** Orson Scott Card
 - **Año de Publicación:** 1985
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/91fqbLUmU0L._SL1500_.jpg
-- **ASIN:** /dp/8420434191
+- **ASIN:**  8420434191
 - **Descripción:** Ender Wiggin, un niño genio, es entrenado en una escuela militar espacial para liderar la lucha contra una invasión alienígena.
 
 ## 7. Fahrenheit 451
 - **Autor:** Ray Bradbury
 - **Año de Publicación:** 1953
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/713hU5z9iaL._SL1500_.jpg
-- **ASIN:** /dp/1644730537
+- **ASIN:**  1644730537
 - **Descripción:** En una sociedad donde los libros están prohibidos, el bombero Guy Montag comienza a cuestionar su trabajo de quemar literatura.
 
 ## 8. La Mano Izquierda de la Oscuridad
 - **Autor:** Ursula K. Le Guin
 - **Año de Publicación:** 1969
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/813AqVVbDLL._SL1500_.jpg
-- **ASIN:** /dp/6070799895
+- **ASIN:**  6070799895
 - **Descripción:** Un enviado humano debe navegar la política de un planeta helado habitado por seres andróginos en busca de una alianza.
 
 ## 9. Yo, Robot
 - **Autor:** Isaac Asimov
 - **Año de Publicación:** 1950
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71x-U3x5N2L._SL1500_.jpg
-- **ASIN:** /dp/8435021343
+- **ASIN:**  8435021343
 - **Descripción:** Historias interconectadas exploran las Tres Leyes de la Robótica y las complejas relaciones entre humanos y máquinas inteligentes.
 
 ## 10. Solaris
 - **Autor:** Stanisław Lem
 - **Año de Publicación:** 1961
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/61DC0GVd5LL._SL1181_.jpg
-- **ASIN:** /dp/8445076825
+- **ASIN:**  8445076825
 - **Descripción:** Científicos en una estación espacial estudian un océano viviente que materializa sus memorias más dolorosas y profundas.
 
 11. La Guerra de los Mundos
@@ -532,7 +532,7 @@ Top 10 Libros de Ciencia Ficción
 Autor: H.G. Wells
 Año de Publicación: 1898
 Imagen de Portada: https://m.media-amazon.com/images/I/71xBSZ9qKTL._SL1500_.jpg
-ASIN: /dp/B0FYNJJ483
+ASIN:  B0FYNJJ483
 Descripción: Marcianos invaden la Tierra con tecnología superior, pero encuentran un enemigo inesperado en este clásico pionero del género.
 
 12. La Máquina del Tiempo
@@ -540,7 +540,7 @@ Descripción: Marcianos invaden la Tierra con tecnología superior, pero encuent
 Autor: H.G. Wells
 Año de Publicación: 1895
 Imagen de Portada: https://m.media-amazon.com/images/I/6137--avcwL._SL1491_.jpg
-ASIN: /dp/B0C8R9FN3Q
+ASIN:  B0C8R9FN3Q
 Descripción: Un científico victoriano viaja al año 802,701 y descubre la evolución divergente de la humanidad en dos especies distintas.
 
 13. Ubik
@@ -548,7 +548,7 @@ Descripción: Un científico victoriano viaja al año 802,701 y descubre la evol
 Autor: Philip K. Dick
 Año de Publicación: 1969
 Imagen de Portada: https://m.media-amazon.com/images/I/81IQrIAEIKL._SL1500_.jpg
-ASIN: /dp/8445007378
+ASIN:  8445007378
 Descripción: Tras un ataque, empleados de una corporación descubren que la realidad se desmorona y retrocede en el tiempo constantemente.
 
 14. Hyperion
@@ -556,7 +556,7 @@ Descripción: Tras un ataque, empleados de una corporación descubren que la rea
 Autor: Dan Simmons
 Año de Publicación: 1989
 Imagen de Portada: https://m.media-amazon.com/images/I/91uTbqdHpnL._SL1500_.jpg
-ASIN: /dp/8466658033
+ASIN:  8466658033
 Descripción: Siete peregrinos viajan a un planeta remoto, cada uno narrando su historia al estilo de los Cuentos de Canterbury futuristas.
 
 15. El Fin de la Eternidad
@@ -564,7 +564,7 @@ Descripción: Siete peregrinos viajan a un planeta remoto, cada uno narrando su 
 Autor: Isaac Asimov
 Año de Publicación: 1955
 Imagen de Portada: https://m.media-amazon.com/images/I/51hbfoLqqhL._SL1050_.jpg
-ASIN: /dp/8491425756
+ASIN:  8491425756
 Descripción: Los Eternos manipulan el tiempo para mejorar la humanidad, hasta que un técnico se enamora y cambia todo el destino humano.
 
 16. La Guerra Interminable
@@ -572,7 +572,7 @@ Descripción: Los Eternos manipulan el tiempo para mejorar la humanidad, hasta q
 Autor: Joe Haldeman
 Año de Publicación: 1974
 Imagen de Portada: https://m.media-amazon.com/images/I/81qGZgzUsuL._SL1500_.jpg
-ASIN: /dp/8490709262
+ASIN:  8490709262
 Descripción: Soldados luchan en una guerra espacial de siglos debido a la dilatación temporal, regresando a una Tierra irreconocible.
 
 17. Contacto
@@ -580,7 +580,7 @@ Descripción: Soldados luchan en una guerra espacial de siglos debido a la dilat
 Autor: Carl Sagan
 Año de Publicación: 1985
 Imagen de Portada: https://m.media-amazon.com/images/I/71x0CMouHZL._SL1500_.jpg
-ASIN: /dp/6073166443
+ASIN:  6073166443
 Descripción: Una astrónoma recibe una señal extraterrestre que contiene planos para una máquina capaz de contactar con sus creadores.
 
 18. Carbono Modificado
@@ -588,7 +588,7 @@ Descripción: Una astrónoma recibe una señal extraterrestre que contiene plano
 Autor: Richard K. Morgan
 Año de Publicación: 2002
 Imagen de Portada: https://m.media-amazon.com/images/I/71Ar10opdgL._SL1500_.jpg
-ASIN: /dp/8417507477
+ASIN:  8417507477
 Descripción: En un futuro donde la conciencia se transfiere entre cuerpos, un ex soldado investiga el asesinato de un hombre rico.
 
 19. Matadero Cinco
@@ -596,7 +596,7 @@ Descripción: En un futuro donde la conciencia se transfiere entre cuerpos, un e
 Autor: Kurt Vonnegut
 Año de Publicación: 1969
 Imagen de Portada: https://m.media-amazon.com/images/I/81-W5SUCRjL._SL1500_.jpg
-ASIN: /dp/B0BZZ23KMY
+ASIN:  B0BZZ23KMY
 Descripción: Billy Pilgrim viaja en el tiempo sin control, viviendo momentos de su vida, incluyendo el bombardeo de Dresde aleatoriamente.
 
 20. El Despertar del Leviatán
@@ -604,7 +604,7 @@ Descripción: Billy Pilgrim viaja en el tiempo sin control, viviendo momentos de
 Autor: James S.A. Corey
 Año de Publicación: 2011
 Imagen de Portada: https://m.media-amazon.com/images/I/810CU9+IGiL._SL1500_.jpg
-ASIN: /dp/8466660151
+ASIN:  8466660151
 Descripción: Un detective y un capitán descubren una conspiración que amenaza la frágil paz entre la Tierra, Marte y el Cinturón.
 
 Top 10 Libros de Ficción
@@ -612,70 +612,70 @@ Top 10 Libros de Ficción
 - **Autor:** George Orwell
 - **Año de Publicación:** 1949
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/51GPJUr5v0L._SL1157_.jpg
-- **ASIN:** /dp/6073844328
+- **ASIN:**  6073844328
 - **Descripción:** En una sociedad totalitaria, Winston Smith lucha contra la omnipresente vigilancia del Gran Hermano y la manipulación de la verdad.
 
 ## 2. El Gran Gatsby
 - **Autor:** F. Scott Fitzgerald
 - **Año de Publicación:** 1925
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/912jMzwrRQL._SL1500_.jpg
-- **ASIN:** /dp/8466350969
+- **ASIN:**  8466350969
 - **Descripción:** Jay Gatsby persigue su sueño americano y un amor perdido en el glamuroso y corrupto mundo de Nueva York en los años veinte.
 
 ## 3. Matar a un Ruiseñor
 - **Autor:** Harper Lee
 - **Año de Publicación:** 1960
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81+j6JIEweL._SL1500_.jpg
-- **ASIN:** /dp/0718076370
+- **ASIN:**  0718076370
 - **Descripción:** Scout Finch narra la defensa de su padre de un hombre negro acusado injustamente en el sur de Estados Unidos durante la Depresión.
 
 ## 4. El Guardián entre el Centeno
 - **Autor:** J.D. Salinger
 - **Año de Publicación:** 1951
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/61fwcnFmmpL._SL1080_.jpg
-- **ASIN:** /dp/8420674206
+- **ASIN:**  8420674206
 - **Descripción:** Holden Caulfield vaga por Nueva York tras ser expulsado de su escuela, criticando la hipocresía del mundo adulto.
 
 ## 5. Orgullo y Prejuicio
 - **Autor:** Jane Austen
 - **Año de Publicación:** 1813
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71KZzetNT9L._SL1500_.jpg
-- **ASIN:** /dp/8491051325
+- **ASIN:**  8491051325
 - **Descripción:** Elizabeth Bennet y Mr. Darcy superan malentendidos y diferencias sociales en esta clásica historia de amor y costumbres inglesas.
 
 ## 6. El Señor de los Anillos: La Comunidad del Anillo
 - **Autor:** J.R.R. Tolkien
 - **Año de Publicación:** 1954
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81LYyyLeR5L._SL1500_.jpg
-- **ASIN:** /dp/6070792238
+- **ASIN:**  6070792238
 - **Descripción:** Frodo Bolsón inicia una peligrosa misión para destruir un anillo mágico que amenaza con sumir la Tierra Media en la oscuridad.
 
 ## 7. El Código Da Vinci
 - **Autor:** Dan Brown
 - **Año de Publicación:** 2003
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71cmxCYAntL._SL1003_.jpg
-- **ASIN:** /dp/8408163159
+- **ASIN:**  8408163159
 - **Descripción:** Robert Langdon descifra símbolos antiguos en una carrera contrarreloj para resolver un misterio que sacudiría los cimientos del cristianismo.
 
 ## 8. Los Juegos del Hambre
 - **Autor:** Suzanne Collins
 - **Año de Publicación:** 2008
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71N9ipxBq-L._SL1500_.jpg
-- **ASIN:** /dp/6073807848
+- **ASIN:**  6073807848
 - **Descripción:** Katniss Everdeen se ofrece como tributo para competir en un brutal reality show donde solo uno de 24 jóvenes sobrevivirá.
 
 ## 9. La Sombra del Viento
 - **Autor:** Carlos Ruiz Zafón
 - **Año de Publicación:** 2001
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/61nVH-yc7-L._SL1050_.jpg
-- **ASIN:** /dp/8408299751
+- **ASIN:**  8408299751
 - **Descripción:** En la Barcelona de posguerra, Daniel descubre un libro misterioso que lo lleva a desentrañar secretos oscuros del pasado.
 
 ## 10. Harry Potter y la Piedra Filosofal
 - **Autor:** J.K. Rowling
 - **Año de Publicación:** 1997
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/61mEUsasD-L._SL1036_.jpg
-- **ASIN:** /dp/8478884459
+- **ASIN:**  8478884459
 - **Descripción:** Harry Potter descubre que es un mago y comienza su educación en Hogwarts, donde enfrenta misterios y magia oscura.
 
 11. Cumbres Borrascosas
@@ -683,7 +683,7 @@ Top 10 Libros de Ficción
 Autor: Emily Brontë
 Año de Publicación: 1847
 Imagen de Portada: https://m.media-amazon.com/images/I/71z0fG-3LSL._SL1000_.jpg
-ASIN: /dp/8415618891
+ASIN:  8415618891
 Descripción: La pasión destructiva entre Heathcliff y Catherine se desarrolla en los páramos ingleses en esta oscura historia gótica.
 
 12. El Retrato de Dorian Gray
@@ -691,7 +691,7 @@ Descripción: La pasión destructiva entre Heathcliff y Catherine se desarrolla 
 Autor: Oscar Wilde
 Año de Publicación: 1890
 Imagen de Portada: https://m.media-amazon.com/images/I/61UA2Ke-HZL._SL1491_.jpg
-ASIN: /dp/B0CLJDQB8C
+ASIN:  B0CLJDQB8C
 Descripción: Un joven aristocrata mantiene su belleza mientras su retrato envejece, reflejando la corrupción de su alma hedonista.
 
 13. Crónica de una Muerte Anunciada
@@ -699,7 +699,7 @@ Descripción: Un joven aristocrata mantiene su belleza mientras su retrato envej
 Autor: Gabriel García Márquez
 Año de Publicación: 1981
 Imagen de Portada: https://m.media-amazon.com/images/I/818cJE+RAzL._SL1500_.jpg
-ASIN: /dp/1400034957
+ASIN:  1400034957
 Descripción: Un pueblo entero conoce el inminente asesinato de Santiago Nasar, pero nadie lo previene en este thriller magistral.
 
 14. Los Pilares de la Tierra
@@ -707,7 +707,7 @@ Descripción: Un pueblo entero conoce el inminente asesinato de Santiago Nasar, 
 Autor: Ken Follett
 Año de Publicación: 1989
 Imagen de Portada: https://m.media-amazon.com/images/I/51SwGPdq3HL.jpg
-ASIN: /dp/8401328519
+ASIN:  8401328519
 Descripción: La construcción de una catedral gótica en la Inglaterra medieval entrelaza ambiciones, traiciones y un amor prohibido.
 
 15. El Cuento de la Criada
@@ -715,7 +715,7 @@ Descripción: La construcción de una catedral gótica en la Inglaterra medieval
 Autor: Margaret Atwood
 Año de Publicación: 1985
 Imagen de Portada: https://m.media-amazon.com/images/I/51pmeQKvt4S._SL1500_.jpg
-ASIN: /dp/8498389070
+ASIN:  8498389070
 Descripción: En una teocracia totalitaria, las mujeres fértiles son forzadas a ser reproductoras en esta distopía feminista inquietante.
 
 16. El Perfume
@@ -723,7 +723,7 @@ Descripción: En una teocracia totalitaria, las mujeres fértiles son forzadas a
 Autor: Patrick Süskind
 Año de Publicación: 1985
 Imagen de Portada: https://m.media-amazon.com/images/I/91xy8I69j7L._SL1500_.jpg
-ASIN: /dp/8432225363
+ASIN:  8432225363
 Descripción: Un genio olfativo sin olor corporal propio obsesionado con crear el perfume perfecto comete asesinatos en la Francia del siglo XVIII.
 
 17. El Nombre del Viento
@@ -731,7 +731,7 @@ Descripción: Un genio olfativo sin olor corporal propio obsesionado con crear e
 Autor: Patrick Rothfuss
 Año de Publicación: 2007
 Imagen de Portada: https://m.media-amazon.com/images/I/81Zw8b8QbGL._SL1500_.jpg
-ASIN: /dp/8466354026
+ASIN:  8466354026
 Descripción: Kvothe narra su transformación de niño prodigio a legendario mago y músico en esta épica fantasía contemporánea.
 
 18. Beloved
@@ -739,7 +739,7 @@ Descripción: Kvothe narra su transformación de niño prodigio a legendario mag
 Autor: Toni Morrison
 Año de Publicación: 1987
 Imagen de Portada: https://m.media-amazon.com/images/I/71A1I-xIAHL._SL1500_.jpg
-ASIN: /dp/8426409377
+ASIN:  8426409377
 Descripción: Una ex esclava es perseguida por el fantasma de su hija muerta en esta poderosa novela sobre el trauma de la esclavitud.
 
 19. El Amor en los Tiempos del Cólera
@@ -747,7 +747,7 @@ Descripción: Una ex esclava es perseguida por el fantasma de su hija muerta en 
 Autor: Gabriel García Márquez
 Año de Publicación: 1985
 Imagen de Portada: https://m.media-amazon.com/images/I/71oUUqtpMiL._SL1500_.jpg
-ASIN: /dp/8439728352
+ASIN:  8439728352
 Descripción: Florentino Ariza espera más de cincuenta años para conquistar a Fermina Daza en esta historia de amor inquebrantable.
 
 20. Las Aventuras de Huckleberry Finn
@@ -755,7 +755,7 @@ Descripción: Florentino Ariza espera más de cincuenta años para conquistar a 
 Autor: Mark Twain
 Año de Publicación: 1884
 Imagen de Portada: https://m.media-amazon.com/images/I/914RVTaJWGL._SL1500_.jpg
-ASIN: /dp/8420433934
+ASIN:  8420433934
 Descripción: Huck huye por el Mississippi con Jim, un esclavo fugitivo, en esta sátira sobre racismo y libertad en Estados Unidos.
 
 # Top 10 Libros Latinoamericanos
@@ -764,70 +764,70 @@ Descripción: Huck huye por el Mississippi con Jim, un esclavo fugitivo, en esta
 - **Autor:** Gabriel García Márquez
 - **Año de Publicación:** 1967
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81n2i30X+5L._SL1500_.jpg
-- **ASIN:** /dp/0307474720
+- **ASIN:**  0307474720
 - **Descripción:** La saga de la familia Buendía en el pueblo mítico de Macondo, obra cumbre del realismo mágico latinoamericano.
 
 ## 2. La Casa de los Espíritus
 - **Autor:** Isabel Allende
 - **Año de Publicación:** 1982
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81sf9LHQcML._SL1500_.jpg
-- **ASIN:** /dp/0525433473
+- **ASIN:**  0525433473
 - **Descripción:** Tres generaciones de mujeres de la familia Trueba navegan amor, política y poderes sobrenaturales en Chile.
 
 ## 3. Rayuela
 - **Autor:** Julio Cortázar
 - **Año de Publicación:** 1963
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/51lnhKqPnQL._SL1050_.jpg
-- **ASIN:** /dp/8437624746
+- **ASIN:**  8437624746
 - **Descripción:** Una novela experimental que puede leerse en múltiples órdenes, explorando el amor y la búsqueda existencial.
 
 ## 4. Pedro Páramo
 - **Autor:** Juan Rulfo
 - **Año de Publicación:** 1955
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81IfreXInWL._SL1500_.jpg
-- **ASIN:** /dp/080216093X
+- **ASIN:**  080216093X
 - **Descripción:** Juan Preciado busca a su padre en Comala, un pueblo habitado por fantasmas y voces del pasado mexicano.
 
 ## 5. La Ciudad y los Perros
 - **Autor:** Mario Vargas Llosa
 - **Año de Publicación:** 1963
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81u8RSD9R7L._SL1500_.jpg
-- **ASIN:** /dp/8420454052
+- **ASIN:**  8420454052
 - **Descripción:** Cadetes de un colegio militar en Lima enfrentan violencia, código de honor y corrupción en la sociedad peruana.
 
 ## 6. El Túnel
 - **Autor:** Ernesto Sabato
 - **Año de Publicación:** 1948
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/715wzJ+wgxL._SL1500_.jpg
-- **ASIN:** /dp/6070784057
+- **ASIN:**  6070784057
 - **Descripción:** Un pintor obsesionado narra desde prisión el asesinato de la única mujer que comprendió su arte en Buenos Aires.
 
 ## 7. Como Agua para Chocolate
 - **Autor:** Laura Esquivel
 - **Año de Publicación:** 1989
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71ANghTe2rL._SL1200_.jpg
-- **ASIN:** /dp/0385721234
+- **ASIN:**  0385721234
 - **Descripción:** Tita expresa emociones prohibidas a través de la cocina, mezclando recetas con realismo mágico en la Revolución Mexicana.
 
 ## 8. El Aleph
 - **Autor:** Jorge Luis Borges
 - **Año de Publicación:** 1949
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/81jFjE9rt6L._SL1500_.jpg
-- **ASIN:** /dp/846634683X
+- **ASIN:**  846634683X
 - **Descripción:** Colección de cuentos metafísicos donde Borges explora infinitos, laberintos y los límites de la realidad y el tiempo.
 
 ## 9. La Fiesta del Chivo
 - **Autor:** Mario Vargas Llosa
 - **Año de Publicación:** 2000
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/71lRLtiOAGL._SL1050_.jpg
-- **ASIN:** /dp/8420434647
+- **ASIN:**  8420434647
 - **Descripción:** La dictadura de Trujillo en República Dominicana vista a través del retorno de una mujer y el asesinato del tirano.
 
 ## 10. Los Detectives Salvajes
 - **Autor:** Roberto Bolaño
 - **Año de Publicación:** 1998
 - **Imagen de Portada:** https://m.media-amazon.com/images/I/612e-xhmW9L._SL1050_.jpg
-- **ASIN:** /dp/8420423939
+- **ASIN:**  8420423939
 - **Descripción:** Jóvenes poetas buscan a una escritora desaparecida en México, explorando la bohemia literaria de los años setenta.
 
 11. La Tregua
@@ -835,7 +835,7 @@ Descripción: Huck huye por el Mississippi con Jim, un esclavo fugitivo, en esta
 Autor: Mario Benedetti
 Año de Publicación: 1960
 Imagen de Portada: https://m.media-amazon.com/images/I/81QNsNgszYL._SL1500_.jpg
-ASIN: /dp/8420666882
+ASIN:  8420666882
 Descripción: Un viudo montevideano próximo a jubilarse inicia un romance inesperado que transforma sus últimos días de trabajo.
 
 12. Aura
@@ -843,7 +843,7 @@ Descripción: Un viudo montevideano próximo a jubilarse inicia un romance inesp
 Autor: Carlos Fuentes
 Año de Publicación: 1962
 Imagen de Portada: https://m.media-amazon.com/images/I/91omNHYaPIL._SL1500_.jpg
-ASIN: /dp/6074451842
+ASIN:  6074451842
 Descripción: Un joven historiador acepta un trabajo en una mansión misteriosa y queda atrapado en un hechizo entre dos mujeres.
 
 13. La Vorágine
@@ -851,7 +851,7 @@ Descripción: Un joven historiador acepta un trabajo en una mansión misteriosa 
 Autor: José Eustasio Rivera
 Año de Publicación: 1924
 Imagen de Portada: https://m.media-amazon.com/images/I/81tcoRbOtWL._SL1500_.jpg
-ASIN: /dp/B006KVKRS8
+ASIN:  B006KVKRS8
 Descripción: Arturo Cova huye con su amante a la selva colombiana donde descubre los horrores de la explotación cauchera amazónica.
 
 14. El Reino de Este Mundo
@@ -859,7 +859,7 @@ Descripción: Arturo Cova huye con su amante a la selva colombiana donde descubr
 Autor: Alejo Carpentier
 Año de Publicación: 1949
 Imagen de Portada: https://m.media-amazon.com/images/I/71wowhjgMdL._SL1000_.jpg
-ASIN: /dp/1490981578
+ASIN:  1490981578
 Descripción: La revolución haitiana contada a través de Ti Noel, un esclavo que presencia la transformación mágica de su nación.
 
 15. Ficciones
@@ -867,7 +867,7 @@ Descripción: La revolución haitiana contada a través de Ti Noel, un esclavo q
 Autor: Jorge Luis Borges
 Año de Publicación: 1944
 Imagen de Portada: https://m.media-amazon.com/images/I/61aCU68SLIL._SL1200_.jpg
-ASIN: /dp/0307950921
+ASIN:  0307950921
 Descripción: Colección de cuentos que exploran laberintos, bibliotecas infinitas y realidades alternativas en prosa filosófica brillante.
 
 16. La Muerte de Artemio Cruz
@@ -875,7 +875,7 @@ Descripción: Colección de cuentos que exploran laberintos, bibliotecas infinit
 Autor: Carlos Fuentes
 Año de Publicación: 1962
 Imagen de Portada: https://m.media-amazon.com/images/I/61n3mWTfq5L._SL1055_.jpg
-ASIN: /dp/8402070019
+ASIN:  8402070019
 Descripción: Un magnate mexicano moribundo recuerda su vida en flashbacks que revelan la corrupción de la Revolución Mexicana.
 
 17. El Beso de la Mujer Araña
@@ -883,7 +883,7 @@ Descripción: Un magnate mexicano moribundo recuerda su vida en flashbacks que r
 Autor: Manuel Puig
 Año de Publicación: 1976
 Imagen de Portada: https://m.media-amazon.com/images/I/71ZhkXEBl5L._SL1500_.jpg
-ASIN: /dp/B09Z636T3Z
+ASIN:  B09Z636T3Z
 Descripción: Dos prisioneros en Argentina desarrollan una amistad inesperada mientras uno narra películas al otro en su celda.
 
 18. Pantaleón y las Visitadoras
@@ -891,7 +891,7 @@ Descripción: Dos prisioneros en Argentina desarrollan una amistad inesperada mi
 Autor: Mario Vargas Llosa
 Año de Publicación: 1973
 Imagen de Portada: https://m.media-amazon.com/images/I/710U24aBizL._SL1500_.jpg
-ASIN: /dp/B01C7T5EM0
+ASIN:  B01C7T5EM0
 Descripción: Un capitán del ejército peruano recibe la misión de organizar un servicio de prostitutas para las tropas en la Amazonía.
 
 19. Santa Evita
@@ -899,7 +899,7 @@ Descripción: Un capitán del ejército peruano recibe la misión de organizar u
 Autor: Tomás Eloy Martínez
 Año de Publicación: 1995
 Imagen de Portada: https://m.media-amazon.com/images/I/71S2BTUOJXL._SL1176_.jpg
-ASIN: /dp/0679768149
+ASIN:  0679768149
 Descripción: La historia del cadáver embalsamado de Eva Perón y su extraño viaje por Argentina tras la caída de su esposo.
 
 20. El Otoño del Patriarca
@@ -907,5 +907,5 @@ Descripción: La historia del cadáver embalsamado de Eva Perón y su extraño v
 Autor: Gabriel García Márquez
 Año de Publicación: 1975
 Imagen de Portada: https://m.media-amazon.com/images/I/71ebmlnzRRL._SL1500_.jpg
-ASIN: /dp/B00SNOFVQI
+ASIN:  B00SNOFVQI
 Descripción: El retrato de un dictador latinoamericano anciano y su decadencia, narrado en largos pasajes de prosa poética hipnótica.
