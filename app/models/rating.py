@@ -1,22 +1,25 @@
 from app import db
 from datetime import datetime
 from typing import Dict, Any
-from sqlalchemy import Integer, DateTime, ForeignKey, Text
+from sqlalchemy import Integer, DateTime, ForeignKey, Text, func
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 class Rating(db.Model):
     __tablename__ = 'calificacion'
     
     id_calificacion: Mapped[int] = mapped_column(primary_key=True)
-    id_usuario: Mapped[int] = mapped_column(ForeignKey('usuarios.id_usuario'), nullable=False)  # ✅ 'usuarios'
+    id_usuario: Mapped[int] = mapped_column(ForeignKey('usuarios.id_usuario'), nullable=False)
     id_libro: Mapped[int] = mapped_column(ForeignKey('libros.id_libros'), nullable=False)
-    calificacion: Mapped[int] = mapped_column(Integer, nullable=False)
+    calificacion: Mapped[int] = mapped_column(Integer, nullable=True)  # ✅ CHANGED: Now nullable
     resena: Mapped[str] = mapped_column(Text, nullable=True)
-    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+    created_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        server_default=func.now()
+    )
     updated_at: Mapped[datetime] = mapped_column(
-        DateTime, 
-        default=datetime.utcnow, 
-        onupdate=datetime.utcnow
+        DateTime(timezone=True),
+        server_default=func.now(),
+        onupdate=func.now()
     )
     
     # Relaciones

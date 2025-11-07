@@ -1,7 +1,7 @@
 from app import db
 from datetime import datetime
 from typing import List, Dict, Any
-from sqlalchemy import String, DateTime, Text
+from sqlalchemy import String, DateTime, Text, func
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 class Author(db.Model):
@@ -11,11 +11,14 @@ class Author(db.Model):
     nombre_autor: Mapped[str] = mapped_column(String(100), nullable=False)
     apellido_autor: Mapped[str] = mapped_column(String(100), nullable=False)
     biografia_autor: Mapped[str] = mapped_column(Text, nullable=True)
-    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+    created_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        server_default=func.now()
+    )
     updated_at: Mapped[datetime] = mapped_column(
-        DateTime, 
-        default=datetime.utcnow, 
-        onupdate=datetime.utcnow
+        DateTime(timezone=True),
+        server_default=func.now(),
+        onupdate=func.now()
     )
     
     # Relación con libros

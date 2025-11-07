@@ -8,15 +8,17 @@ class UserLibrary(db.Model):
     
     id_biblioteca: Mapped[int] = mapped_column(primary_key=True)
     id_usuario: Mapped[int] = mapped_column(Integer, ForeignKey('usuarios.id_usuario'), nullable=False)
-    id_libro: Mapped[int] = mapped_column(Integer, ForeignKey('libros.id_libros'), nullable=False)  # Changed to id_libros
+    id_libro: Mapped[int] = mapped_column(Integer, ForeignKey('libros.id_libros'), nullable=False)
     
     # Campo para estado de lectura
+    # ✅ CHANGED: Only two valid states now (leido is handled by Rating table)
     estado_lectura: Mapped[str] = mapped_column(
         String(20), 
         default='quiero_leer',
         nullable=False
     )
-    # Valores posibles: 'quiero_leer', 'leyendo', 'leido'
+    # Valores posibles: 'quiero_leer', 'leyendo'
+    # Nota: 'leido' ya NO es válido aquí - se maneja en la tabla Rating
     
     # Timestamps con timezone
     created_at: Mapped[datetime] = mapped_column(

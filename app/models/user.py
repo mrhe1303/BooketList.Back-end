@@ -1,7 +1,7 @@
 from app import db
 from datetime import datetime
 from typing import List, Dict, Any
-from sqlalchemy import String, DateTime, Boolean
+from sqlalchemy import String, DateTime, Boolean, func
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 class User(db.Model):
@@ -13,11 +13,14 @@ class User(db.Model):
     email_usuario: Mapped[str] = mapped_column(String(100), unique=True, nullable=False)
     password_usuario: Mapped[str] = mapped_column(String(255), nullable=False)
     is_active: Mapped[bool] = mapped_column(Boolean, default=True, nullable=False)
-    created_at: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow)
+    created_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        server_default=func.now()
+    )
     updated_at: Mapped[datetime] = mapped_column(
-        DateTime, 
-        default=datetime.utcnow, 
-        onupdate=datetime.utcnow
+        DateTime(timezone=True),
+        server_default=func.now(),
+        onupdate=func.now()
     )
     
     # Relaciones - Asegúrate que los nombres coincidan
