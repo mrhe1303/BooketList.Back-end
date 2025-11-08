@@ -26,11 +26,12 @@ def create_app():
                         "http://127.0.0.1:5173",
                         "http://localhost:3000",
                         "http://127.0.0.1:3000",
+                        "http://127.0.0.1:5000",
                         FRONTEND_URL,
                         
                     ],
                     "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-                    "allow_headers": ["Content-Type", "Authorization", "Access-Control-Allow-Origin"],
+                    "allow_headers": ["Content-Type", "Authorization" ],
                     "supports_credentials": True
                 }
             })
