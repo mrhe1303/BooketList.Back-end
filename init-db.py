@@ -93,8 +93,16 @@ def main():
         
         # Step 2: Check if database needs seeding
         print("\n🔍 Step 2: Checking Database State")
-        if is_database_empty():
-            print("📭 Database is empty - proceeding with seeding")
+        
+        # ✅ NEW: Check for FORCE_RESEED environment variable
+        FORCE_RESEED = os.getenv('FORCE_RESEED', 'false').lower() == 'true'
+        
+        # ✅ MODIFIED: Added "or FORCE_RESEED" condition
+        if is_database_empty() or FORCE_RESEED:
+            if FORCE_RESEED:
+                print("🔄 FORCE_RESEED enabled - reseeding database")
+            else:
+                print("📭 Database is empty - proceeding with seeding")
             
             if not seed_database():
                 print("⚠️  Seeding failed, but database structure is ready")
